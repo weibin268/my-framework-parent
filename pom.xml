@@ -10,7 +10,7 @@
 
   <groupId>com.github.weibin268</groupId>
   <artifactId>my-framework-parent</artifactId>
-  <packaging>jar</packaging>
+  <packaging>pom</packaging>
   <version>1.0.0</version>
   <name>my-framework-parent</name>
   <description>my-framework-parent</description>
